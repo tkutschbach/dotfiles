@@ -114,3 +114,6 @@ fi
 
 # set VI output mode
 set -o vi
+
+# Run neofetch
+neofetch
