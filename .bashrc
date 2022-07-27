@@ -116,4 +116,4 @@ fi
 set -o vi
 
 # Run neofetch
-neofetch
+sh ~/.scripts/pfetch/pfetch

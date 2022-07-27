@@ -4,7 +4,7 @@ if test -f ".bashrc"; then
 fi
 
 echo ".cfg" >> .gitignore
-git clone --bare https://github.com/tkutschbach/dotfiles.git $HOME/.cfg
+git clone --bare --recursive https://github.com/tkutschbach/dotfiles.git $HOME/.cfg
 
 function config()
 {
