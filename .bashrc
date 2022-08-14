@@ -115,5 +115,8 @@ fi
 # set VI output mode
 set -o vi
 
-# Run neofetch
+# run pfetch
 sh ~/.scripts/pfetch/pfetch
+
+# start fish shell
+fish
