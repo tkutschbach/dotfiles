@@ -1,3 +1,9 @@
 [submodule ".scripts/pfetch"]
 	path = .scripts/pfetch
 	url = https://github.com/dylanaraps/pfetch.git
+[submodule ".tmux/themes/nord-tmux"]
+	path = .tmux/themes/nord-tmux
+	url = https://github.com/arcticicestudio/nord-tmux
+[submodule ".tmux/themes/tmux-paper-color"]
+	path = .tmux/themes/tmux-paper-color
+	url = https://github.com/jsec/tmux-paper-color.git
